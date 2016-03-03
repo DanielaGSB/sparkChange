@@ -1,0 +1,24 @@
+{
+  "name": "sparkChange",
+  "authors": [
+    "Daniela <daniela.galeote@gmail.com>"
+  ],
+  "description": "website prototype",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0"
+  }
+}
